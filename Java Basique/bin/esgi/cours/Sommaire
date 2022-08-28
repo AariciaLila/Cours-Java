@@ -1,0 +1,19 @@
+/*=====================================================================================*/
+/* 											Sommaire :								   */
+/*   								Partie cours - Exemple + TODO				       */
+/*=====================================================================================*/
+
+1) Main.java : Classe Main sans arguments qui affiche la date actuelle écrite en mots
+2) TODO1 : Programme qui écrite sa date d'anniversaire au format jj/mm/aaaa
+3) MainWithArgs : Classe Main avec arguments qui insère des virgules entre les arguments
+4) TestScanner : programme qui lit les entrées au clavier
+5) TODO3 : Implémentation d'une méthode qui prend en entrée un tableau d'entiers et qui
+           renvoie la somme des entiers du tableau
+6) TODO4 : Implémentation d'une méthode qui prend en paramètre un tableau de double et qui
+           renvoie un tableau des arrondis des doubles à l'entier le plus proche
+7) TODO5 : Méthode qui prend en entrée une chaîne de caractères et un caractère x et qui
+           renvoie un boolean: true si la chaîne de caractère commence par le caractère x,
+           false sinon
+8) TODO6 : Méthode qui prend en paramère une chaîne de caractères et qui retourne un
+           tableau de caractères avec les lettres du mot
+9) TODO7 : Test des méthodes de la classeString

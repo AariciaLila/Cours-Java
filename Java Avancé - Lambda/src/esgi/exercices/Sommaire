@@ -1,0 +1,14 @@
+/*=====================================================================================*/
+/* 											Sommaire :								   */
+/*   									Partie Exercices						       */
+/*=====================================================================================*/
+
+1) Exercice1 : implémenter une expression lambda qui concatène deux chaînes de caractères
+2) Exercice2 : implémenter une expression lambda qui renvoie des tailles de deux tableaux
+3) Exercice3 : implémenter une expression lambda qui concatène deux listes d'entiers
+4) Exercice4 : implémenter une méthode qui permet de récupérer qu'une partie du
+               dictionnaire passé en paramètre (ex : que les mots qui commencent par la
+               lettre a)
+5) Exercice5 : implémenter la méthode compose avec T = String, R = Characeter et Z = Integer
+               la composition des deux fonctions lambda permet d'obtenir la position de la
+               première lettre d'une chaîne dans l'alphabet

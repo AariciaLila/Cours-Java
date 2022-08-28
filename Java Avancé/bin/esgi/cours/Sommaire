@@ -1,0 +1,24 @@
+/*=====================================================================================*/
+/* 											Sommaire :								   */
+/*   								Partie cours - Exemple + TODO				       */
+/*   								Partie exercice - esgi.exerciceX				       */
+/*=====================================================================================*/
+
+1) Instrument.java : Exemple de classe (attributs+constructeur+méthodes+instanciation)
+2) Instrument2.java : Exemple d'objet
+3) Instrument3.java : Exemple de variables (name,weight,type) et de méthodes
+                      (convertWeightInGrm())
+4) Instrument4.java : Exemple de constructeur d'instances (new ...)
+5) Instrument5.java : Exemple de packages et d'accessibilité des éléments
+6) Animal.java & Dog.java : Exemple de l'héritage
+7) GeometricShape.java & Rectangle.java & Circle.java : Exemple de classes abstraites
+8) Operation.java & Addition.java & Division.java & Multiplication.java & Power.java :
+   Exemple d'interfaces
+9) Utils.java : Exemple de surcharge
+10) Polymorphisme.java : Exemple de polymorphisme
+
+1) Exercice 1 : La classe
+2) Exercice 2 : Classe abstraite et héritage
+3) Exercice 3 : Les interfaces
+4) Exercice 4 : Surcharge
+5) Exercice 5 : Polymorphisme

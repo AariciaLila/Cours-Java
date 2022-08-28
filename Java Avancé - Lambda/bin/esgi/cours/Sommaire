@@ -1,0 +1,24 @@
+/*=====================================================================================*/
+/* 											Sommaire :								   */
+/*   								Partie cours - Exemple + TODO				       */
+/*=====================================================================================*/
+
+1) IntLambda (TODO1 & TODO 3) : Déclaration
+=> TODO1 : Ecriture d'une autre expression lambda correspondant au type IntLambda
+=> TODO3 : Ecriture d'une expression lambda correspondant au type IntLambda mais avec
+           un bloc d'instruction
+2) TODO2 : Ecriture d'une fonction anonyme qui prend en entrée 3 entiers et qui
+           renvoie un entier
+3) OneParamLambda & NoParamLambda : une seule entrée vs pas d'entrée
+4) TODO4 : Ecriture d'une lambda qui prend un double en paramètre et qui calcule la racine
+           carrée de ce nombre
+5) GenericLambda : généricité
+6) TODO 5 : Ecriture d'une autre expression lambda en utilisant d'autres types de paramètres
+7) JavaUtilFunction : Consumer<T> & Function<T,R> & Predicate<T>
+8) TODO6 : Autre exemple de Consumer<T>
+9) TODO7 : Autre exemple de Function<T,R>
+10) TODO8 : Autre exemple de Predicate<T>
+11) LambdaEnParamètre : lambda en paramètre
+12) ReferencementDeMethode : référencement de méthode
+13) LambdaResultatDeFonction : lambda résultat de fonction
+14) FunctionIntInt : Lambda et récursivité

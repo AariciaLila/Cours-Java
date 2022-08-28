@@ -1,0 +1,15 @@
+/*=====================================================================================*/
+/* 											Sommaire :								   */
+/*   									Partie exercice				  			       */
+/*=====================================================================================*/
+
+1) Exercice 1 : programme qui prend en arguments une série de chiffres pour calculer la
+                somme, la moyenne des chiffres, et l'arrondi de la moyenne à l'entier
+                supérieur
+2) Exercice 2 : programme qui permet de récupérer 10 chiffres saisis au clavier pour
+                calculer la somme et la moyenne
+3) Exercice 3 : programme qui renvoie le char le plus élevé d'un tableau de char, renvoie
+                le max et le min d'un tableau de int, et qui vérifie l'existence d'un
+                caractère dans le tableau de char
+4) Exercice 4 : méthode qui prend en paramètre une phrase et qui renvoie cette même phrase
+                mais avec les mots dans l'ordre inversé
