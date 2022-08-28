@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="712.0" prefWidth="1073.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="esgi.javafx.filrouge.controllers.TableController">
+   <children>
+      <TableView fx:id="table" layoutX="74.0" layoutY="20.0" prefHeight="542.0" prefWidth="926.0">
+        <columns>
+          <TableColumn fx:id="col_firstname" prefWidth="260.0" text="Firstname" />
+          <TableColumn fx:id="col_lastname" minWidth="0.0" prefWidth="273.0" text="Lastname" />
+            <TableColumn fx:id="col_email" prefWidth="471.0" text="email" />
+        </columns>
+      </TableView>
+      <Button layoutX="896.0" layoutY="589.0" mnemonicParsing="false" onAction="#previous" text="Précédent" />
+   </children>
+</Pane>

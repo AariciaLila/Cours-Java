@@ -1,0 +1,20 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+/* Implémenter une CSS pour designer correctement le formulaire javaFX */
+
+.button{
+    -fx-text-fill: rgb(49, 89, 23);
+    -fx-border-color: rgb(49, 89, 23);
+    -fx-border-radius: 5;
+    -fx-padding: 1 6 6 6;
+    -fx-background-color: lightgrey; 
+    -fx-text-fill: black;
+}
+
+.label{
+	-fx-font-family: "Segoe UI Semibold";
+	-fx-text-fill: blue;
+}
+
+.background {
+    -fx-background-color: #1d1d1d;
+}

@@ -1,0 +1,17 @@
+/*===============================================================================================*/
+/* 											Notions utilisées									 */
+/*===============================================================================================*/
+
+- JDBC : (Java Database Connectivity) API qui permet d'accéder à toute base de données
+         relationnelle. L'API permet de façon très simple d'établir une connexion à la BDD, de
+         transmettre des requêtes, de récupérer et d'exploiter des résultats.
+- JavaFX : Logiciel qui, combiné avec Java, permet la création et le déploiement d'applications
+           lourdes, mdernes, avec du contenu riche.
+           Ancêtre : Swing. Appartient à Oracle.
+- Scene Builder : Outil pour concevoir des interfaces graphiques pour JAVA FX sans avoir besoin de
+                  coder. On construit l'interface via l'outil (Ajout d'un bouton, d'un label, d'un
+                  champ texte...) qui se charge ensuite de générer le code fxml.
+- fxml : Format de données textuelles qui se dérive du format très connu XML. Permet de décrire une
+         interface utilisateur pour des applications javaFX.
+- Scene builder vs fxml : On construit la vue graphique via scene builder qui se charge de générer
+                          ensuite le code fxml

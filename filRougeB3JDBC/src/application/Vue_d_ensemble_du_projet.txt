@@ -1,0 +1,11 @@
+/*===============================================================================================*/
+/* 										Vue d'ensemble du projet								 */
+/*===============================================================================================*/
+
+- MVC (Modèle Vue Contrôleur) : séparation entre la logique métier et l'affichage
+- Modèle : User
+- Vue : Form.fxml
+- Contrôleur : FormController.java
+- Main : Point d'entrée de l'application (Main.java)
+
+Pour lancer l'application: Run as > Java Application

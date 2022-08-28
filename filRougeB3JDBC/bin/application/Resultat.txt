@@ -1,0 +1,12 @@
+/*==============================================================================================*/
+/* 										Résultat											    */
+/*==============================================================================================*/
+
+-> Fenêtre application :
+	-> Nom * : Dominguez
+	-> Prénom * : Aaricia
+	-> S'inscrire
+
+-> Console :
+	-> filRougeB3JDBC [Java Application]
+		-> Utilisateur Dominguez créé

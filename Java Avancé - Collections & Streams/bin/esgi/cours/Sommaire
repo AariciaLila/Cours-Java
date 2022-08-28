@@ -1,0 +1,22 @@
+/*=====================================================================================*/
+/* 											Sommaire :								   */
+/*   								Partie cours - Exemple + TODO				       */
+/*   								Partie exercice - esgi.exercicex			       */
+/*=====================================================================================*/
+
+1) Collections.java : Collections
+2) ClasseCollections.java & User.java : Classe Collections
+3) IteratorExemple.java : Iterator
+4) ForEach.java : forEach
+5) Avatar.java : TreeMap vs HashMap & Méthode get
+6) ClasseProperties  : ClasseProperties
+7) PropertiesSysteme : Propriétés système
+8) ClasseStream : Stream
+
+1) Exercice 1 : classe Collections
+2) Exercice 2 : forEach
+3) Exercice 3 : Map
+4) Exercice 4 : Stream
+5) Exercice 5 : ToArray et collect
+6) Exercice 6 : Optional
+7) Exercice 7 : reduce

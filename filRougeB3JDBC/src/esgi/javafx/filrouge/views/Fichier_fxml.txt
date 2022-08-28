@@ -1,0 +1,32 @@
+/*==============================================================================================*/
+/* 										Fichier fxml (Vue)									    */
+/*==============================================================================================*/
+
+- Génération du code fxml avec Scene builder
+	-> Clic droit sur le fichier Form.xml > Open with Scene Builder
+		-> GridPane (2x3)
+			-> TextField (1, 0)
+			-> TextField (1, 1)
+			-> Label (0,0) Nom * :
+			-> Label (0,1) Prénom * :
+			-> Button (1,2) S'inscrire
+			
+- Configuration du contrôleur dans Scene Builder pour la vue Form.fxml
+	-> Controller
+		// Indiquer le chemin vers la classe contrôleur FormController
+		-> Controller class : esgi.javafx.filrouge.controllers.FormController
+		
+- Configuration des champs TextField
+	-> Code : TextField
+		// Dans fx:id mettre le même nom que l'attribut dans la classe FormController
+		-> Identity
+			-> fx:id : lastnameField
+	-> Code : TextField
+		-> Identity
+			-> fx:id : firstnameField
+
+@FXML
+private TextField lastnameField;
+
+@FXML
+private TextField firstnameField;

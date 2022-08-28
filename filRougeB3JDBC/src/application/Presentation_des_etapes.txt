@@ -1,0 +1,12 @@
+/*===============================================================================================*/
+/* 										Présentation des étapes									 */
+/*===============================================================================================*/
+
+- Etape 1 : Créer la Base de données filrougeb3 et la table User
+- Etape 2 : Implémenter le bean pour repésenter un User
+- Etape 3 : Implémenter le DataConnect pour la connexion à la BDD filrougeb3
+- Etape 4 : Implémenter le service pour créer un utilisateur dans la table User
+- Etape 5 : Implémenter les tests junit pour tester le DataConnect et le UserService
+- Etape 6 : Implémenter le contrôleur pour gérer le formulaire de création d'un user dans la BDD
+- Etape 7 : Implémenter la vue associée au contrôleur FormController
+- Etape 8 : Implémenter la classe Main permettant de lancer l'application javaFX
